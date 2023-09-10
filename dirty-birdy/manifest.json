@@ -3,7 +3,7 @@
     "header": {
       "description": "My dirt resource pack Add-On!",
       "name": "Dirty Birdy",
-      "uuid":"",
+      "uuid":"8176ede6-af3f-4da5-b276-4ac98ded8805",
       "version": [1, 0, 0],
       "min_engine_version": [1, 16, 0]
      },
